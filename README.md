@@ -1,5 +1,10 @@
 # Hi 👋 I'm Andrew Fesenko
 
+<p align="center">
+  <img src="banner.png" alt="Andrew Fesenko - Aspiring Engineer" width="100%">
+</p>
+
+
 ## 💫 About Me
 
 🎓 I’m a third-year Computer Engineering student at the University of Florida, passionate about building meaningful software, diving into machine learning, and working on hands-on embedded systems projects.  
