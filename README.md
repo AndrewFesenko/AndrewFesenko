@@ -1,23 +1,22 @@
-## Hi 👋 I'm Andrew Fesenko
+# Hi 👋 I'm Andrew Fesenko
 
-# 💫 About Me
+## 💫 About Me
 
 🎓 I’m a third-year Computer Engineering student at the University of Florida, passionate about building meaningful software, diving into machine learning, and working on hands-on embedded systems projects.  
 🌱 I’m currently learning **AWS**, diving deeper into **cloud architecture**, exploring **containerization with Docker**, and improving my understanding of **CI/CD workflows**.  
 🤝 I’m open to collaborating on **student projects, startups, open-source**, or anything that helps me grow and contribute.  
-🧠 I'm always eager to learn, knowing there's so much more to explore and gain from the experiences of others.
-🎵 **Fun fact:** I’m Ukrainian and play piano (and a little bit of guitar).
-🌐 You can check out my personal website here: [andrewfesenko.com](https://andrewfesenko.com)
+🧠 I'm always eager to learn, knowing there's so much more to explore and gain from the experiences of others.  
+🎵 **Fun fact:** I’m Ukrainian, play piano (and a little bit of guitar), and I like Polyphia.  
+🌐 You can check out my personal website soon — it's currently in progress!
 
-# 🚀 What I'm Up To
+## 🚀 What I'm Up To
 
 - 🛠️ I’m currently working on a mobile app called **Day Zero**
 
+## 🌐 Socials
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/and_rew.f) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:andrewfesenko05@gmail.com)
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/and_rew.f) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:andrewfesenko05@gmail.com) 
-
-# 💻 Tech Stack
+## 💻 Tech Stack
 
 ### 🧑‍💻 Languages  
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)  ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white)  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)  ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)  ![MATLAB](https://img.shields.io/badge/matlab-orange?style=flat&logo=mathworks)
