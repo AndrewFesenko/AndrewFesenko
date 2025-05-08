@@ -1,7 +1,7 @@
 # Hi 👋 I'm Andrew Fesenko
 
 <p align="center">
-  <img src="banner.png" alt="Andrew Fesenko - Aspiring Engineer" width="100%">
+  <img src="banner.png" alt="Andrew Fesenko - Aspiring Engineer" width="50%">
 </p>
 
 
