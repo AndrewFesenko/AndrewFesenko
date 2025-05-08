@@ -1,25 +1,26 @@
-# Hi 👋 I'm Andrew Fesenko
+# Hi, I'm Andrew
 
 <p align="center">
   <img src="banner.png" alt="Andrew Fesenko - Aspiring Engineer" width="50%">
 </p>
 
+## About Me
 
-## 💫 About Me
+I'm a third-year **Computer Engineering** student at the **University of Florida**, passionate about building meaningful software, diving into **machine learning**, and working on hands-on **embedded systems** projects.
 
-🎓 I’m a third-year Computer Engineering student at the University of Florida, passionate about building meaningful software, diving into machine learning, and working on hands-on embedded systems projects.  
-🌱 I’m currently learning **AWS**, diving deeper into **cloud architecture**, exploring **containerization with Docker**, and improving my understanding of **CI/CD workflows**.  
-🤝 I’m open to collaborating on **student projects, startups, open-source**, or anything that helps me grow and contribute.  
-🧠 I'm always eager to learn, knowing there's so much more to explore and gain from the experiences of others.  
-🎵 **Fun fact:** I’m Ukrainian, play piano (and a little bit of guitar), and I like Polyphia.  
-🌐 You can check out my personal website soon — it's currently in progress!
+- Currently learning **AWS**, cloud architecture, Docker, and CI/CD workflows.
+- Open to collaboration on **student projects**, **startups**, and **open-source** work.
+- Always eager to learn and grow through real-world challenges and shared experiences.
+- Fun fact: I'm **Ukrainian**, play piano (and a little guitar), and I enjoy listening to **Polyphia**.
+- My personal website is coming soon — stay tuned!
 
-## 🚀 What I'm Up To
+## What I'm Up To
 
-- 🛠️ I’m currently working on a mobile app called **Day Zero**
+- Working on a mobile app called **Day Zero**
 
-## 🌐 Socials
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/and_rew.f) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:andrewfesenko05@gmail.com)
+## Socials
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/and_rew.f)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:andrewfesenko05@gmail.com)
 
 ## 💻 Tech Stack
 
