@@ -1,10 +1,10 @@
-# Hi, I'm Andrew
+# Hi, I'm Andrew 👋🏻 💻
 
 <p align="center">
   <img src="banner.png" alt="Andrew Fesenko - Aspiring Engineer" width="50%">
 </p>
 
-## About Me
+## 💼 About Me
 
 I'm a third-year **Computer Engineering** student at the **University of Florida**, passionate about building meaningful software, diving into **machine learning**, and working on hands-on **embedded systems** projects.
 
@@ -14,7 +14,7 @@ I'm a third-year **Computer Engineering** student at the **University of Florida
 - Fun fact: I'm **Ukrainian**, play piano (and a little guitar), and I enjoy listening to **Polyphia**.
 - My personal website is coming soon — stay tuned!
 
-## What I'm Up To
+## 🚀 What I'm Up To
 
 - Working on a mobile app called **Day Zero**
 
