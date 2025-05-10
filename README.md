@@ -16,7 +16,9 @@ I'm a third-year **Computer Engineering** student at the **University of Florida
 
 ## 🚀 What I'm Up To
 
+- Finishing up **Echo Talk** (adding new features)
 - Working on a mobile app called **Day Zero**
+- Building a IoT sensor node
 
 ## Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/and_rew.f)
