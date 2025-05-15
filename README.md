@@ -11,7 +11,7 @@ I'm a third-year Computer Engineering student at the University of Florida, pass
 - Currently learning AWS, cloud architecture, Docker, and CI/CD workflows.
 - Open to collaboration on student projects, startups, and open-source work.
 - Always eager to learn and grow through real-world challenges and shared experiences.
-- Fun fact: I'm Ukrainian, play piano (and a little guitar), and I enjoy listening to Polyphia.
+- Fun fact: I'm Ukrainian, play piano (and a little guitar), and I’m into artists like Polyphia and Tyler, The Creator.
 - My personal website is coming soon — stay tuned!
 
 ## 🚀 What I'm Up To
