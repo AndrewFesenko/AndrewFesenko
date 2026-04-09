@@ -1,4 +1,6 @@
 # Hi, I'm Andrew 👋🏻 💻
+🔗 https://afesenko.com  
+📧 andrewfesenko10@gmail.com
 
 <p align="center">
   <img src="banner.png" alt="Andrew Fesenko - Aspiring Engineer" width="50%">
